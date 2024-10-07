@@ -1,1 +1,2 @@
 # STELLAR
+# All rights reserved
